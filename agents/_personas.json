@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "the-caravan",
+    "name": "The Caravan & the Haunted Road",
+    "epithet": "an Arabian-Nights frame",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Caravan & the Haunted Road:CAC:89b3b3⟧"
+  },
+  {
+    "slug": "the-vampyr",
+    "name": "The Vampyr",
+    "epithet": "the thing on the road",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Vampyr:CAC:e11dc0⟧"
+  },
+  {
+    "slug": "a-collaboration",
+    "name": "A Collaboration",
+    "epithet": "with Nina Kiriki Hoffman",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦A Collaboration:CAC:f45dfd⟧"
+  }
+]
