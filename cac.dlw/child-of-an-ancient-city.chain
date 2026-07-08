@@ -4,6 +4,6 @@ slug  : child-of-an-ancient-city
 seal  : a7a872e47b3b85ba71246bf6c633927e0c41963d3e74a25cf96bf1b014ce94fd
 prev  : df2b4b90da2c30113077237c6a9974fd206126cbd2724add8cf8b56adec2da04
 link  : 986776ec166519f44bdfddb9803a589d1b8e306d3624808a76c2356db10f7e6d
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
